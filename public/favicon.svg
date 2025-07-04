@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 40 40" width="100%">
+    <g id="VinaDAO Logo Updated">
+        <path d="M21.9458 28.7959L19.9995 32.6875L8.88232 10.4521L21.9458 28.7959ZM24.2593 24.1699L22.2827 28.1211L9.01709 9.49316L24.2593 24.1699ZM26.5659 19.5557L24.5718 23.5449L9.18311 8.72656L26.5659 19.5557ZM26.8647 18.957L20.6313 15.0986L32.5054 7.67676L26.8647 18.957Z" fill="var(--fill-0, white)" id="Union" style="fill:white;fill-opacity:1;"/>
+        <path clip-rule="evenodd" d="M2.2741 3.93391L18.806 37.1904C19.2963 38.1768 20.7035 38.1768 21.1939 37.1904L37.7258 3.93391C38.3179 2.74284 36.9922 1.51419 35.8495 2.19489L19.9999 11.6361L4.1504 2.19489C3.00766 1.51419 1.68202 2.74284 2.2741 3.93391ZM19.403 35.3946C19.6481 35.8879 20.3518 35.8879 20.5969 35.3946L35.4981 5.41347C35.7967 4.8128 35.1211 4.19697 34.5506 4.54972L19.9999 13.546L5.44932 4.54972C4.87879 4.19697 4.2032 4.8128 4.50174 5.41347L19.403 35.3946Z" fill="url(#paint0_linear_0_241)" fill-rule="evenodd" id="Subtract" style=""/>
+    </g>
+    <defs>
+        <linearGradient gradientUnits="userSpaceOnUse" id="paint0_linear_0_241" x1="24.9999" x2="9.1666" y1="28.2662" y2="-1.40048">
+            <stop stop-color="#AA1927" style="stop-color:#AA1927;stop-color:color(display-p3 0.6667 0.0972 0.1542);stop-opacity:1;"/>
+            <stop offset="1" stop-color="#EB4141" style="stop-color:#EB4141;stop-color:color(display-p3 0.9216 0.2549 0.2549);stop-opacity:1;"/>
+        </linearGradient>
+    </defs>
+    <script xmlns=""/></svg>
